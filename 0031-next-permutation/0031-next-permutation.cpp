@@ -32,3 +32,6 @@ public:
 }
 
 };
+
+// also you can just use the this function to get the next permutation 
+// next_permutation(nums.begin(),nums.end());
