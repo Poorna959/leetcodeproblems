@@ -1,6 +1,6 @@
 class Solution {
 public:
-bool isFreqSame(int freq1[],int freq2[]){
+bool isFreqSame(int freq1[],int freq2[]){//it wil check wether the two freq are equal or not
     for(int i=0;i<26;i++){
         if(freq1[i]!=freq2[i]){
             return false;
@@ -17,7 +17,7 @@ bool isFreqSame(int freq1[],int freq2[]){
     for(int i=0;i<s2.length();i++){
         int windIND=0,ind=i;
         int windFreq[26]={0};
-        while(windIND<windsize && ind<s2.length()){
+        while(windIND<windsize && ind<s2.length()){ //sliding window
             windFreq[s2[ind]-'a']++;
             windIND++;ind++;
         }
