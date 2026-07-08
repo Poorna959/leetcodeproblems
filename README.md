@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Poorna959/leetcodeproblems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Poorna959/leetcodeproblems/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Poorna959/leetcodeproblems/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Poorna959/leetcodeproblems/tree/master/0219-contains-duplicate-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -53,12 +54,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Poorna959/leetcodeproblems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/Poorna959/leetcodeproblems/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/Poorna959/leetcodeproblems/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Poorna959/leetcodeproblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Poorna959/leetcodeproblems/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Poorna959/leetcodeproblems/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/Poorna959/leetcodeproblems/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
