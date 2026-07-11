@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Poorna959/leetcodeproblems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Poorna959/leetcodeproblems/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Poorna959/leetcodeproblems/tree/master/0303-range-sum-query-immutable) |
+| [0410-split-array-largest-sum](https://github.com/Poorna959/leetcodeproblems/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Poorna959/leetcodeproblems/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Poorna959/leetcodeproblems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Poorna959/leetcodeproblems/tree/master/0560-subarray-sum-equals-k) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Poorna959/leetcodeproblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Poorna959/leetcodeproblems/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/Poorna959/leetcodeproblems/tree/master/0278-first-bad-version) |
+| [0410-split-array-largest-sum](https://github.com/Poorna959/leetcodeproblems/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/Poorna959/leetcodeproblems/tree/master/0704-binary-search) |
 | [0732-my-calendar-iii](https://github.com/Poorna959/leetcodeproblems/tree/master/0732-my-calendar-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Poorna959/leetcodeproblems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Poorna959/leetcodeproblems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Poorna959/leetcodeproblems/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Poorna959/leetcodeproblems/tree/master/0303-range-sum-query-immutable) |
+| [0410-split-array-largest-sum](https://github.com/Poorna959/leetcodeproblems/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Poorna959/leetcodeproblems/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Poorna959/leetcodeproblems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Poorna959/leetcodeproblems/tree/master/0560-subarray-sum-equals-k) |
@@ -150,10 +153,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Poorna959/leetcodeproblems/tree/master/0055-jump-game) |
+| [0410-split-array-largest-sum](https://github.com/Poorna959/leetcodeproblems/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Poorna959/leetcodeproblems/tree/master/0055-jump-game) |
+| [0410-split-array-largest-sum](https://github.com/Poorna959/leetcodeproblems/tree/master/0410-split-array-largest-sum) |
 ## Design
 |  |
 | ------- |
