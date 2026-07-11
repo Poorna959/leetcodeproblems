@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Poorna959/leetcodeproblems/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Poorna959/leetcodeproblems/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Poorna959/leetcodeproblems/tree/master/0704-binary-search) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Poorna959/leetcodeproblems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1094-car-pooling](https://github.com/Poorna959/leetcodeproblems/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/Poorna959/leetcodeproblems/tree/master/1109-corporate-flight-bookings) |
 | [1480-running-sum-of-1d-array](https://github.com/Poorna959/leetcodeproblems/tree/master/1480-running-sum-of-1d-array) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/Poorna959/leetcodeproblems/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Poorna959/leetcodeproblems/tree/master/0704-binary-search) |
 | [0732-my-calendar-iii](https://github.com/Poorna959/leetcodeproblems/tree/master/0732-my-calendar-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Poorna959/leetcodeproblems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [3356-zero-array-transformation-ii](https://github.com/Poorna959/leetcodeproblems/tree/master/3356-zero-array-transformation-ii) |
 ## Prefix Sum
 |  |
