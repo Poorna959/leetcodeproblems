@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Poorna959/leetcodeproblems/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Poorna959/leetcodeproblems/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Poorna959/leetcodeproblems/tree/master/0704-binary-search) |
+| [0860-lemonade-change](https://github.com/Poorna959/leetcodeproblems/tree/master/0860-lemonade-change) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Poorna959/leetcodeproblems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1094-car-pooling](https://github.com/Poorna959/leetcodeproblems/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/Poorna959/leetcodeproblems/tree/master/1109-corporate-flight-bookings) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Poorna959/leetcodeproblems/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/Poorna959/leetcodeproblems/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Poorna959/leetcodeproblems/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Poorna959/leetcodeproblems/tree/master/0860-lemonade-change) |
 ## Design
 |  |
 | ------- |
