@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Poorna959/leetcodeproblems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Poorna959/leetcodeproblems/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/Poorna959/leetcodeproblems/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/Poorna959/leetcodeproblems/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Poorna959/leetcodeproblems/tree/master/0523-continuous-subarray-sum) |
 ## String
 |  |
@@ -153,11 +154,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Poorna959/leetcodeproblems/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/Poorna959/leetcodeproblems/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Poorna959/leetcodeproblems/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/Poorna959/leetcodeproblems/tree/master/0410-split-array-largest-sum) |
+| [0509-fibonacci-number](https://github.com/Poorna959/leetcodeproblems/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -186,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Poorna959/leetcodeproblems/tree/master/0278-first-bad-version) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Poorna959/leetcodeproblems/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
