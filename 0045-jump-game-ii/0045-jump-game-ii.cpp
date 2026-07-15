@@ -2,23 +2,18 @@ class Solution {
 public:
     
     int jump(vector<int>& nums) {
-        vector<int> memo(nums.size(),-1);
-        return calculate(nums,0,memo);
+        int l=0,r=0;
+        int jumps=0;
+        while(r<nums.size()-1){
+            int farthest=0;
+            for(int i=l;i<=r;i++){
+                farthest=max(nums[i]+i,farthest);
+            }
+            l=r+1;
+            r=farthest;
+            jumps++;
+        }
+        return jumps;
     }
-    int calculate(vector<int>& nums,int ind,vector<int> &memo){
-        if(ind>=nums.size()-1){
-            return 0;
-        }
-        if(memo[ind]!=-1){
-            return memo[ind];
-        }
-        
-        
-        int mini=1e9;
-        for(int i=1;i<=nums[ind];i++){
-            mini=min(mini,1+calculate(nums,ind+i,memo));
-        }
-        memo[ind]=mini;
-        return mini;
-    }
+    
 };
