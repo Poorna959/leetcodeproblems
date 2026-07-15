@@ -17,3 +17,5 @@ public:
     }
     
 };
+// this is baed on the range ;
+// where you use the a point to check in which range you can jummp and if the r exceeds the limit the jumps will be minimum;
