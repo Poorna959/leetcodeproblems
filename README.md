@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Poorna959/leetcodeproblems/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Poorna959/leetcodeproblems/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/Poorna959/leetcodeproblems/tree/master/0045-jump-game-ii) |
+| [0054-spiral-matrix](https://github.com/Poorna959/leetcodeproblems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Poorna959/leetcodeproblems/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Poorna959/leetcodeproblems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Poorna959/leetcodeproblems/tree/master/0075-sort-colors) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Poorna959/leetcodeproblems/tree/master/0054-spiral-matrix) |
 | [1094-car-pooling](https://github.com/Poorna959/leetcodeproblems/tree/master/1094-car-pooling) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Poorna959/leetcodeproblems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Poorna959/leetcodeproblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Poorna959/leetcodeproblems/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Poorna959/leetcodeproblems/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Poorna959/leetcodeproblems/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer
