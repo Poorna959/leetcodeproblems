@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Poorna959/leetcodeproblems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Poorna959/leetcodeproblems/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Poorna959/leetcodeproblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0204-count-primes](https://github.com/Poorna959/leetcodeproblems/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Poorna959/leetcodeproblems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Poorna959/leetcodeproblems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Poorna959/leetcodeproblems/tree/master/0238-product-of-array-except-self) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Poorna959/leetcodeproblems/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/Poorna959/leetcodeproblems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Poorna959/leetcodeproblems/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/Poorna959/leetcodeproblems/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Poorna959/leetcodeproblems/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Poorna959/leetcodeproblems/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Poorna959/leetcodeproblems/tree/master/0523-continuous-subarray-sum) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Poorna959/leetcodeproblems/tree/master/0204-count-primes) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Poorna959/leetcodeproblems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Poorna959/leetcodeproblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
@@ -250,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Poorna959/leetcodeproblems/tree/master/0240-search-a-2d-matrix-ii) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Poorna959/leetcodeproblems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
