@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Poorna959/leetcodeproblems/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Poorna959/leetcodeproblems/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Poorna959/leetcodeproblems/tree/master/0704-binary-search) |
+| [0789-escape-the-ghosts](https://github.com/Poorna959/leetcodeproblems/tree/master/0789-escape-the-ghosts) |
 | [0860-lemonade-change](https://github.com/Poorna959/leetcodeproblems/tree/master/0860-lemonade-change) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Poorna959/leetcodeproblems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1094-car-pooling](https://github.com/Poorna959/leetcodeproblems/tree/master/1094-car-pooling) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Poorna959/leetcodeproblems/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Poorna959/leetcodeproblems/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Poorna959/leetcodeproblems/tree/master/0523-continuous-subarray-sum) |
+| [0789-escape-the-ghosts](https://github.com/Poorna959/leetcodeproblems/tree/master/0789-escape-the-ghosts) |
 | [2965-find-missing-and-repeated-values](https://github.com/Poorna959/leetcodeproblems/tree/master/2965-find-missing-and-repeated-values) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Poorna959/leetcodeproblems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Poorna959/leetcodeproblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
