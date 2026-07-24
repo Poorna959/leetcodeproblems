@@ -1,18 +1,18 @@
 class Solution {
 public:
     double averageWaitingTime(vector<vector<int>>& customers) {
-        double cheftime=0;
-        double wait_time=0;
-        for(auto i:customers){
-            if(cheftime>i[0]){
-                cheftime+=i[1];
+        double current_time=0;
+        double total_time=0;
+        for(auto &customer:customers){
+            int arrival=customer[0];
+            int time = customer[1];
+            if(arrival>current_time){
+                current_time=arrival;
             }
-            else{
-                cheftime=i[0]+i[1];
-            }
-            wait_time+=cheftime-i[0];
+            current_time+=time;
+            total_time+=current_time-arrival;
+
         }
-        double ans=wait_time/(customers.size());
-        return ans;
+        return (double)total_time/(customers.size());
     }
 };
