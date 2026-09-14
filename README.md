@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Poorna959/leetcodeproblems/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Poorna959/leetcodeproblems/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Poorna959/leetcodeproblems/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Poorna959/leetcodeproblems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Poorna959/leetcodeproblems/tree/master/0455-assign-cookies) |
 | [0523-continuous-subarray-sum](https://github.com/Poorna959/leetcodeproblems/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Poorna959/leetcodeproblems/tree/master/0525-contiguous-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Poorna959/leetcodeproblems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Poorna959/leetcodeproblems/tree/master/0088-merge-sorted-array) |
 | [0435-non-overlapping-intervals](https://github.com/Poorna959/leetcodeproblems/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Poorna959/leetcodeproblems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Poorna959/leetcodeproblems/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Poorna959/leetcodeproblems/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Poorna959/leetcodeproblems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Poorna959/leetcodeproblems/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/Poorna959/leetcodeproblems/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Poorna959/leetcodeproblems/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Poorna959/leetcodeproblems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Poorna959/leetcodeproblems/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Poorna959/leetcodeproblems/tree/master/0860-lemonade-change) |
 ## Design
