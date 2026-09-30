@@ -2,27 +2,14 @@ class Solution {
 public:
     int maxScore(vector<int>& cardPoints, int k) {
         int n = cardPoints.size();
-        vector<int> lprefix;
-        lprefix.push_back(0);
-        vector<int> rprefix;
-        rprefix.push_back(0);
-        int score = 0;
-        for(int i=0;i<n;i++){
-            score+=cardPoints[i];
-            lprefix.push_back(score);
+        int lprefix = 0;
+        for(int i=0;i<k;i++){
+            lprefix+=cardPoints[i];
         }
-        score=0;
-        for(int i =n-1;i>=0;i--){
-            score+=cardPoints[i];
-            rprefix.push_back(score);
-        }
-        int l=k;
-        int r=0;
-        int max_score = INT_MIN;
-        while(l>=0 && r<=k){
-            max_score  = max(max_score,lprefix[l]+rprefix[r]);
-            l--;
-            r++;
+        int max_score = lprefix;
+        for(int i=1;i<=k;i++){
+            lprefix = lprefix - cardPoints[k - i] + cardPoints[n - i];
+            max_score = max(max_score, lprefix);
         }
         
         return max_score;
