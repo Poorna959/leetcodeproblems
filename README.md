@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1701-average-waiting-time](https://github.com/Poorna959/leetcodeproblems/tree/master/1701-average-waiting-time) |
 | [1732-find-the-highest-altitude](https://github.com/Poorna959/leetcodeproblems/tree/master/1732-find-the-highest-altitude) |
 | [2453-destroy-sequential-targets](https://github.com/Poorna959/leetcodeproblems/tree/master/2453-destroy-sequential-targets) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Poorna959/leetcodeproblems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/Poorna959/leetcodeproblems/tree/master/2965-find-missing-and-repeated-values) |
 | [3355-zero-array-transformation-i](https://github.com/Poorna959/leetcodeproblems/tree/master/3355-zero-array-transformation-i) |
 | [3356-zero-array-transformation-ii](https://github.com/Poorna959/leetcodeproblems/tree/master/3356-zero-array-transformation-ii) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Poorna959/leetcodeproblems/tree/master/0940-fruit-into-baskets) |
 | [1695-maximum-erasure-value](https://github.com/Poorna959/leetcodeproblems/tree/master/1695-maximum-erasure-value) |
 | [2453-destroy-sequential-targets](https://github.com/Poorna959/leetcodeproblems/tree/master/2453-destroy-sequential-targets) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Poorna959/leetcodeproblems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/Poorna959/leetcodeproblems/tree/master/2965-find-missing-and-repeated-values) |
 ## Sliding Window
 |  |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Poorna959/leetcodeproblems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Poorna959/leetcodeproblems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1695-maximum-erasure-value](https://github.com/Poorna959/leetcodeproblems/tree/master/1695-maximum-erasure-value) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Poorna959/leetcodeproblems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Search
 |  |
 | ------- |
