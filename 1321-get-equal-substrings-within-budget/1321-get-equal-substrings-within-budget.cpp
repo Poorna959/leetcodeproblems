@@ -5,6 +5,7 @@ public:
         int l=0;
         int cost = 0;
         int max_len = INT_MIN;
+        // in this you can maintain the prefix sum for the abs difference 
         for(int r=0;r<n;r++){
             if(cost<=maxCost){
                 cost+=abs(s[r]-t[r]);
