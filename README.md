@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Poorna959/leetcodeproblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Poorna959/leetcodeproblems/tree/master/1480-running-sum-of-1d-array) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/Poorna959/leetcodeproblems/tree/master/1535-find-the-winner-of-an-array-game) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Poorna959/leetcodeproblems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1695-maximum-erasure-value](https://github.com/Poorna959/leetcodeproblems/tree/master/1695-maximum-erasure-value) |
 | [1701-average-waiting-time](https://github.com/Poorna959/leetcodeproblems/tree/master/1701-average-waiting-time) |
 | [1732-find-the-highest-altitude](https://github.com/Poorna959/leetcodeproblems/tree/master/1732-find-the-highest-altitude) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Poorna959/leetcodeproblems/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Poorna959/leetcodeproblems/tree/master/1004-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Poorna959/leetcodeproblems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Poorna959/leetcodeproblems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1695-maximum-erasure-value](https://github.com/Poorna959/leetcodeproblems/tree/master/1695-maximum-erasure-value) |
 ## Binary Search
 |  |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Poorna959/leetcodeproblems/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Poorna959/leetcodeproblems/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Poorna959/leetcodeproblems/tree/master/0509-fibonacci-number) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Poorna959/leetcodeproblems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Greedy
 |  |
 | ------- |
