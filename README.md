@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Poorna959/leetcodeproblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Poorna959/leetcodeproblems/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/Poorna959/leetcodeproblems/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Poorna959/leetcodeproblems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Poorna959/leetcodeproblems/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Poorna959/leetcodeproblems/tree/master/0344-reverse-string) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Poorna959/leetcodeproblems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Poorna959/leetcodeproblems/tree/master/0042-trapping-rain-water) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Poorna959/leetcodeproblems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
@@ -386,4 +388,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Poorna959/leetcodeproblems/tree/master/0042-trapping-rain-water) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Poorna959/leetcodeproblems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
