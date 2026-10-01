@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/Poorna959/leetcodeproblems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1094-car-pooling](https://github.com/Poorna959/leetcodeproblems/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/Poorna959/leetcodeproblems/tree/master/1109-corporate-flight-bookings) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Poorna959/leetcodeproblems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Poorna959/leetcodeproblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Poorna959/leetcodeproblems/tree/master/1480-running-sum-of-1d-array) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/Poorna959/leetcodeproblems/tree/master/1535-find-the-winner-of-an-array-game) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Poorna959/leetcodeproblems/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Poorna959/leetcodeproblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0789-escape-the-ghosts](https://github.com/Poorna959/leetcodeproblems/tree/master/0789-escape-the-ghosts) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Poorna959/leetcodeproblems/tree/master/1370-count-number-of-nice-subarrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/Poorna959/leetcodeproblems/tree/master/2965-find-missing-and-repeated-values) |
 | [3536-maximum-product-of-two-digits](https://github.com/Poorna959/leetcodeproblems/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Poorna959/leetcodeproblems/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Poorna959/leetcodeproblems/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Poorna959/leetcodeproblems/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Poorna959/leetcodeproblems/tree/master/1034-subarrays-with-k-different-integers) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Poorna959/leetcodeproblems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1695-maximum-erasure-value](https://github.com/Poorna959/leetcodeproblems/tree/master/1695-maximum-erasure-value) |
 | [2453-destroy-sequential-targets](https://github.com/Poorna959/leetcodeproblems/tree/master/2453-destroy-sequential-targets) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Poorna959/leetcodeproblems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Poorna959/leetcodeproblems/tree/master/1004-max-consecutive-ones-iii) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Poorna959/leetcodeproblems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Poorna959/leetcodeproblems/tree/master/1321-get-equal-substrings-within-budget) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Poorna959/leetcodeproblems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Poorna959/leetcodeproblems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Poorna959/leetcodeproblems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Poorna959/leetcodeproblems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -251,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/Poorna959/leetcodeproblems/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/Poorna959/leetcodeproblems/tree/master/1109-corporate-flight-bookings) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Poorna959/leetcodeproblems/tree/master/1321-get-equal-substrings-within-budget) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Poorna959/leetcodeproblems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/Poorna959/leetcodeproblems/tree/master/1480-running-sum-of-1d-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Poorna959/leetcodeproblems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/Poorna959/leetcodeproblems/tree/master/1732-find-the-highest-altitude) |
