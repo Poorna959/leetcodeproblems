@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Poorna959/leetcodeproblems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Poorna959/leetcodeproblems/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Poorna959/leetcodeproblems/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/Poorna959/leetcodeproblems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Poorna959/leetcodeproblems/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Poorna959/leetcodeproblems/tree/master/0204-count-primes) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Poorna959/leetcodeproblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Poorna959/leetcodeproblems/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/Poorna959/leetcodeproblems/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Poorna959/leetcodeproblems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Poorna959/leetcodeproblems/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/Poorna959/leetcodeproblems/tree/master/0125-valid-palindrome) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Poorna959/leetcodeproblems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Poorna959/leetcodeproblems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Poorna959/leetcodeproblems/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Poorna959/leetcodeproblems/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/Poorna959/leetcodeproblems/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Poorna959/leetcodeproblems/tree/master/0141-linked-list-cycle) |
