@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Poorna959/leetcodeproblems/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Poorna959/leetcodeproblems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Poorna959/leetcodeproblems/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Poorna959/leetcodeproblems/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Poorna959/leetcodeproblems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Poorna959/leetcodeproblems/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Poorna959/leetcodeproblems/tree/master/0344-reverse-string) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Poorna959/leetcodeproblems/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Poorna959/leetcodeproblems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Poorna959/leetcodeproblems/tree/master/0042-trapping-rain-water) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Poorna959/leetcodeproblems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Poorna959/leetcodeproblems/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Poorna959/leetcodeproblems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Poorna959/leetcodeproblems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Poorna959/leetcodeproblems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Poorna959/leetcodeproblems/tree/master/0055-jump-game) |
@@ -406,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Poorna959/leetcodeproblems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Poorna959/leetcodeproblems/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Poorna959/leetcodeproblems/tree/master/0032-longest-valid-parentheses) |
 ## Queue
 |  |
 | ------- |
