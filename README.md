@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/Poorna959/leetcodeproblems/tree/master/2965-find-missing-and-repeated-values) |
 | [3355-zero-array-transformation-i](https://github.com/Poorna959/leetcodeproblems/tree/master/3355-zero-array-transformation-i) |
 | [3356-zero-array-transformation-ii](https://github.com/Poorna959/leetcodeproblems/tree/master/3356-zero-array-transformation-ii) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Poorna959/leetcodeproblems/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Poorna959/leetcodeproblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Poorna959/leetcodeproblems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Poorna959/leetcodeproblems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Poorna959/leetcodeproblems/tree/master/2965-find-missing-and-repeated-values) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Poorna959/leetcodeproblems/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Sliding Window
 |  |
 | ------- |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Poorna959/leetcodeproblems/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Poorna959/leetcodeproblems/tree/master/0287-find-the-duplicate-number) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Poorna959/leetcodeproblems/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Recursion
 |  |
 | ------- |
