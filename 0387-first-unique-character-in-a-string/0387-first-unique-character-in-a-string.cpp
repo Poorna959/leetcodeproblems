@@ -4,13 +4,10 @@ public:
         unordered_map<char,int> memo;
         int n=s.length();
         for(int i=0;i<n;i++){
-            memo[s[i]]=i;
+            memo[s[i]]++;
         }
         for(int i=0;i<n;i++){
-            if(i!=memo[s[i]]){
-                memo.erase(s[i]);
-            }
-            else{
+            if(memo[s[i]]==1){
                 return i;
             }
         }
