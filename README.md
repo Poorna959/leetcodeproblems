@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Poorna959/leetcodeproblems/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Poorna959/leetcodeproblems/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Poorna959/leetcodeproblems/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Poorna959/leetcodeproblems/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Poorna959/leetcodeproblems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Poorna959/leetcodeproblems/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Poorna959/leetcodeproblems/tree/master/0567-permutation-in-string) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Poorna959/leetcodeproblems/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Poorna959/leetcodeproblems/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Poorna959/leetcodeproblems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/Poorna959/leetcodeproblems/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Poorna959/leetcodeproblems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Poorna959/leetcodeproblems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/Poorna959/leetcodeproblems/tree/master/0523-continuous-subarray-sum) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Poorna959/leetcodeproblems/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/Poorna959/leetcodeproblems/tree/master/0594-longest-harmonious-subsequence) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Poorna959/leetcodeproblems/tree/master/1034-subarrays-with-k-different-integers) |
 | [2453-destroy-sequential-targets](https://github.com/Poorna959/leetcodeproblems/tree/master/2453-destroy-sequential-targets) |
