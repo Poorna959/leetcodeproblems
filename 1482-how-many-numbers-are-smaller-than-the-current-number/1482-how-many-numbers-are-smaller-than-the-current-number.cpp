@@ -1,17 +1,22 @@
 class Solution {
 public:
     vector<int> smallerNumbersThanCurrent(vector<int>& nums) {
+        
         int n=nums.size();
+        map<int,int> memo;
+        for(int i:nums)memo[i]++;
+        int running=0;
+        for(auto& [k,c]:memo){
+            int cnt = c;
+            c=running;
+            running+=cnt;
+        }
+
         vector<int> ans;
-        for(int i=0;i<n;i++){
-        vector<int> a = nums;
-        sort(a.begin(),a.end());
-        for(int j=0;j<n;j++){
-            if(a[j]==nums[i]){
-                ans.push_back(j);
-                break;
-            }   
-        }}
+        for(int i:nums){
+            ans.push_back(memo[i]);
+        }
         return ans;
     }
+
 };
