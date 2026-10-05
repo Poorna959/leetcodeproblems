@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/Poorna959/leetcodeproblems/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/Poorna959/leetcodeproblems/tree/master/1109-corporate-flight-bookings) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Poorna959/leetcodeproblems/tree/master/1370-count-number-of-nice-subarrays) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Poorna959/leetcodeproblems/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Poorna959/leetcodeproblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Poorna959/leetcodeproblems/tree/master/1480-running-sum-of-1d-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Poorna959/leetcodeproblems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/Poorna959/leetcodeproblems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Poorna959/leetcodeproblems/tree/master/1321-get-equal-substrings-within-budget) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Poorna959/leetcodeproblems/tree/master/1370-count-number-of-nice-subarrays) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Poorna959/leetcodeproblems/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Poorna959/leetcodeproblems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Poorna959/leetcodeproblems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Poorna959/leetcodeproblems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
