@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Poorna959/leetcodeproblems/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Poorna959/leetcodeproblems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Poorna959/leetcodeproblems/tree/master/1034-subarrays-with-k-different-integers) |
+| [1046-max-consecutive-ones-iii](https://github.com/Poorna959/leetcodeproblems/tree/master/1046-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/Poorna959/leetcodeproblems/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/Poorna959/leetcodeproblems/tree/master/1109-corporate-flight-bookings) |
 | [1138-grumpy-bookstore-owner](https://github.com/Poorna959/leetcodeproblems/tree/master/1138-grumpy-bookstore-owner) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Poorna959/leetcodeproblems/tree/master/0966-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Poorna959/leetcodeproblems/tree/master/1004-max-consecutive-ones-iii) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Poorna959/leetcodeproblems/tree/master/1034-subarrays-with-k-different-integers) |
+| [1046-max-consecutive-ones-iii](https://github.com/Poorna959/leetcodeproblems/tree/master/1046-max-consecutive-ones-iii) |
 | [1138-grumpy-bookstore-owner](https://github.com/Poorna959/leetcodeproblems/tree/master/1138-grumpy-bookstore-owner) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Poorna959/leetcodeproblems/tree/master/1321-get-equal-substrings-within-budget) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Poorna959/leetcodeproblems/tree/master/1370-count-number-of-nice-subarrays) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0732-my-calendar-iii](https://github.com/Poorna959/leetcodeproblems/tree/master/0732-my-calendar-iii) |
 | [1004-max-consecutive-ones-iii](https://github.com/Poorna959/leetcodeproblems/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Poorna959/leetcodeproblems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1046-max-consecutive-ones-iii](https://github.com/Poorna959/leetcodeproblems/tree/master/1046-max-consecutive-ones-iii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Poorna959/leetcodeproblems/tree/master/1321-get-equal-substrings-within-budget) |
 | [3356-zero-array-transformation-ii](https://github.com/Poorna959/leetcodeproblems/tree/master/3356-zero-array-transformation-ii) |
 ## Prefix Sum
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0732-my-calendar-iii](https://github.com/Poorna959/leetcodeproblems/tree/master/0732-my-calendar-iii) |
 | [0966-binary-subarrays-with-sum](https://github.com/Poorna959/leetcodeproblems/tree/master/0966-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Poorna959/leetcodeproblems/tree/master/1004-max-consecutive-ones-iii) |
+| [1046-max-consecutive-ones-iii](https://github.com/Poorna959/leetcodeproblems/tree/master/1046-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/Poorna959/leetcodeproblems/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/Poorna959/leetcodeproblems/tree/master/1109-corporate-flight-bookings) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Poorna959/leetcodeproblems/tree/master/1321-get-equal-substrings-within-budget) |
