@@ -1,22 +1,22 @@
 class Solution {
 public:
     int equalSubstring(string s, string t, int maxCost) {
-        int n= s.length();
+        int n = s.length();
         int l=0;
-        int cost = 0;
-        int max_len = INT_MIN;
-        // in this you can maintain the prefix sum for the abs difference 
+        int count = 0;
+        int ans = 0;
         for(int r=0;r<n;r++){
-            if(cost<=maxCost){
-                cost+=abs(s[r]-t[r]);
+            count+=abs(s[r]-t[r]);
+            while(count>maxCost){
+                int cost = abs(s[l]-t[l]);
+                count-=cost;
+                l++;
             }
-            while(cost>maxCost){
-                cost-=abs(s[l]-t[l]);
-                l++;}
-            
-            max_len=max(max_len,r-l+1);
-        }
-        return (max_len==INT_MIN)?0:max_len;
 
+            if(count<=maxCost){
+                ans = max(ans,r-l+1);
+            }
+        }
+        return ans;
     }
 };
