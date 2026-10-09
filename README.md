@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/Poorna959/leetcodeproblems/tree/master/1695-maximum-erasure-value) |
 | [1701-average-waiting-time](https://github.com/Poorna959/leetcodeproblems/tree/master/1701-average-waiting-time) |
 | [1732-find-the-highest-altitude](https://github.com/Poorna959/leetcodeproblems/tree/master/1732-find-the-highest-altitude) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Poorna959/leetcodeproblems/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2453-destroy-sequential-targets](https://github.com/Poorna959/leetcodeproblems/tree/master/2453-destroy-sequential-targets) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Poorna959/leetcodeproblems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Poorna959/leetcodeproblems/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Poorna959/leetcodeproblems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Poorna959/leetcodeproblems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1695-maximum-erasure-value](https://github.com/Poorna959/leetcodeproblems/tree/master/1695-maximum-erasure-value) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Poorna959/leetcodeproblems/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2453-destroy-sequential-targets](https://github.com/Poorna959/leetcodeproblems/tree/master/2453-destroy-sequential-targets) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Poorna959/leetcodeproblems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Poorna959/leetcodeproblems/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Poorna959/leetcodeproblems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Poorna959/leetcodeproblems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1695-maximum-erasure-value](https://github.com/Poorna959/leetcodeproblems/tree/master/1695-maximum-erasure-value) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Poorna959/leetcodeproblems/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Poorna959/leetcodeproblems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Poorna959/leetcodeproblems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Poorna959/leetcodeproblems/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Poorna959/leetcodeproblems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-max-consecutive-ones-iii](https://github.com/Poorna959/leetcodeproblems/tree/master/1046-max-consecutive-ones-iii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Poorna959/leetcodeproblems/tree/master/1321-get-equal-substrings-within-budget) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Poorna959/leetcodeproblems/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [3356-zero-array-transformation-ii](https://github.com/Poorna959/leetcodeproblems/tree/master/3356-zero-array-transformation-ii) |
 ## Prefix Sum
 |  |
@@ -319,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Poorna959/leetcodeproblems/tree/master/1480-running-sum-of-1d-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Poorna959/leetcodeproblems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/Poorna959/leetcodeproblems/tree/master/1732-find-the-highest-altitude) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Poorna959/leetcodeproblems/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [3355-zero-array-transformation-i](https://github.com/Poorna959/leetcodeproblems/tree/master/3355-zero-array-transformation-i) |
 | [3356-zero-array-transformation-ii](https://github.com/Poorna959/leetcodeproblems/tree/master/3356-zero-array-transformation-ii) |
 ## Counting
