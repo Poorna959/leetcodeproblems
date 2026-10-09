@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1701-average-waiting-time](https://github.com/Poorna959/leetcodeproblems/tree/master/1701-average-waiting-time) |
 | [1732-find-the-highest-altitude](https://github.com/Poorna959/leetcodeproblems/tree/master/1732-find-the-highest-altitude) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Poorna959/leetcodeproblems/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1813-maximum-erasure-value](https://github.com/Poorna959/leetcodeproblems/tree/master/1813-maximum-erasure-value) |
 | [2453-destroy-sequential-targets](https://github.com/Poorna959/leetcodeproblems/tree/master/2453-destroy-sequential-targets) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Poorna959/leetcodeproblems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Poorna959/leetcodeproblems/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Poorna959/leetcodeproblems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1695-maximum-erasure-value](https://github.com/Poorna959/leetcodeproblems/tree/master/1695-maximum-erasure-value) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Poorna959/leetcodeproblems/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1813-maximum-erasure-value](https://github.com/Poorna959/leetcodeproblems/tree/master/1813-maximum-erasure-value) |
 | [2453-destroy-sequential-targets](https://github.com/Poorna959/leetcodeproblems/tree/master/2453-destroy-sequential-targets) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Poorna959/leetcodeproblems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Poorna959/leetcodeproblems/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Poorna959/leetcodeproblems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1695-maximum-erasure-value](https://github.com/Poorna959/leetcodeproblems/tree/master/1695-maximum-erasure-value) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Poorna959/leetcodeproblems/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1813-maximum-erasure-value](https://github.com/Poorna959/leetcodeproblems/tree/master/1813-maximum-erasure-value) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Poorna959/leetcodeproblems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Poorna959/leetcodeproblems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Poorna959/leetcodeproblems/tree/master/2856-count-complete-subarrays-in-an-array) |
