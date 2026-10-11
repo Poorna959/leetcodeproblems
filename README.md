@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/Poorna959/leetcodeproblems/tree/master/1813-maximum-erasure-value) |
 | [2453-destroy-sequential-targets](https://github.com/Poorna959/leetcodeproblems/tree/master/2453-destroy-sequential-targets) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Poorna959/leetcodeproblems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/Poorna959/leetcodeproblems/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Poorna959/leetcodeproblems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/Poorna959/leetcodeproblems/tree/master/2868-continuous-subarrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/Poorna959/leetcodeproblems/tree/master/2965-find-missing-and-repeated-values) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Poorna959/leetcodeproblems/tree/master/0204-count-primes) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/Poorna959/leetcodeproblems/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Linked List
 |  |
 | ------- |
