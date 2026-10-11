@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Poorna959/leetcodeproblems/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Poorna959/leetcodeproblems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Poorna959/leetcodeproblems/tree/master/0443-string-compression) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/Poorna959/leetcodeproblems/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0567-permutation-in-string](https://github.com/Poorna959/leetcodeproblems/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/Poorna959/leetcodeproblems/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Poorna959/leetcodeproblems/tree/master/0680-valid-palindrome-ii) |
