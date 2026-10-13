@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Poorna959/leetcodeproblems/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Poorna959/leetcodeproblems/tree/master/0713-subarray-product-less-than-k) |
 | [0789-escape-the-ghosts](https://github.com/Poorna959/leetcodeproblems/tree/master/0789-escape-the-ghosts) |
+| [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Poorna959/leetcodeproblems/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0860-lemonade-change](https://github.com/Poorna959/leetcodeproblems/tree/master/0860-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/Poorna959/leetcodeproblems/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/Poorna959/leetcodeproblems/tree/master/0940-fruit-into-baskets) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Poorna959/leetcodeproblems/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Poorna959/leetcodeproblems/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Poorna959/leetcodeproblems/tree/master/0680-valid-palindrome-ii) |
+| [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Poorna959/leetcodeproblems/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0908-middle-of-the-linked-list](https://github.com/Poorna959/leetcodeproblems/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/Poorna959/leetcodeproblems/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Poorna959/leetcodeproblems/tree/master/0941-sort-array-by-parity) |
