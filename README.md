@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Poorna959/leetcodeproblems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/Poorna959/leetcodeproblems/tree/master/2868-continuous-subarrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/Poorna959/leetcodeproblems/tree/master/2965-find-missing-and-repeated-values) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Poorna959/leetcodeproblems/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Poorna959/leetcodeproblems/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3355-zero-array-transformation-i](https://github.com/Poorna959/leetcodeproblems/tree/master/3355-zero-array-transformation-i) |
 | [3356-zero-array-transformation-ii](https://github.com/Poorna959/leetcodeproblems/tree/master/3356-zero-array-transformation-ii) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Poorna959/leetcodeproblems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Poorna959/leetcodeproblems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/Poorna959/leetcodeproblems/tree/master/2868-continuous-subarrays) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Poorna959/leetcodeproblems/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Poorna959/leetcodeproblems/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Binary Search
 |  |
