@@ -1,55 +1,65 @@
 class Solution {
 public:
     vector<int> findSubstring(string s, vector<string>& words) {
-        vector<int> ans;
+        int n = s.length();
+        int m = words.size();
 
-        if (s.empty() || words.empty()) return ans;
+        if (m == 0) return {};
 
-        int n = s.size();
-        int wordLen = words[0].size();
-        int wordCount = words.size();
-        int windowLen = wordLen * wordCount;
+        int k = words[0].length();
 
-        if (n < windowLen) return ans;
+        if (n < m * k) return {};
 
-        unordered_map<string, int> required;
+        unordered_map<string, int> memo;
 
-        for (const string& word : words) {
-            required[word]++;
+        for (string w : words) {
+            memo[w]++;
         }
 
-        for (int offset = 0; offset < wordLen; offset++) {
+        vector<int> ans;
+
+        // Try all possible starting offsets.
+        for (int offset = 0; offset < k; offset++) {
             int l = offset;
-            int count = 0;
-            unordered_map<string, int> seen;
+            int total = 0;
 
-            for (int r = offset; r + wordLen <= n; r += wordLen) {
-                string word = s.substr(r, wordLen);
+            unordered_map<string, int> store;
 
-                if (required.find(word) == required.end()) {
-                    seen.clear();
-                    count = 0;
-                    l = r + wordLen;
+            for (int r = offset; r + k <= n; r += k) {
+                string st = s.substr(r, k);
+
+                // If the current word is invalid,
+                // reset the sliding window.
+                if (memo.count(st) == 0) {
+                    store.clear();
+                    total = 0;
+                    l = r + k;
                     continue;
                 }
 
-                seen[word]++;
-                count++;
+                store[st]++;
+                total++;
 
-                while (seen[word] > required[word]) {
-                    string leftWord = s.substr(l, wordLen);
-                    seen[leftWord]--;
-                    count--;
-                    l += wordLen;
+                // Remove excess occurrences of the current word.
+                while (store[st] > memo[st]) {
+                    string temp = s.substr(l, k);
+
+                    store[temp]--;
+                    total--;
+                    l += k;
                 }
 
-                if (count == wordCount) {
+                // A complete concatenation has been found.
+                if (total == m) {
                     ans.push_back(l);
 
-                    string leftWord = s.substr(l, wordLen);
-                    seen[leftWord]--;
-                    count--;
-                    l += wordLen;
+                    // Move the left pointer to search for
+                    // the next possible concatenation.
+                    string temp = s.substr(l, k);
+
+                    store[temp]--;
+                    total--;
+                    l += k;
                 }
             }
         }
