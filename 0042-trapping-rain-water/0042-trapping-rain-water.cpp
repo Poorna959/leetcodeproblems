@@ -1,22 +1,25 @@
 class Solution {
 public:
     int trap(vector<int>& height) {
-        int n = height.size();
-        int  l =0,r=n-1,lmax=INT_MIN,rmax=INT_MIN;
-        int units = 0;
+        int lmax = 0, rmax = 0;
+        int ans = 0;
+        int n=height.size();
+        int l=0,r=n-1;
+        
         while(l<r){
             lmax = max(lmax,height[l]);
-            rmax = max(rmax , height[r]);
+            rmax = max(rmax,height[r]);
             
-            if(lmax<rmax){
-                units += min(lmax,rmax)-height[l];
+            if(height[l]<height[r]){
+                ans+=(lmax-height[l]);
                 l++;
             }
             else{
-                units += min(lmax,rmax)-height[r];
+                ans+=(rmax-height[r]);
                 r--;
             }
+           
         }
-        return units;
+        return ans;
     }
 };
