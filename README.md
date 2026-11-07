@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/Poorna959/leetcodeproblems/tree/master/2000-reverse-prefix-of-word) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Poorna959/leetcodeproblems/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Poorna959/leetcodeproblems/tree/master/2186-count-vowel-substrings-of-a-string) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Poorna959/leetcodeproblems/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Poorna959/leetcodeproblems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Stack
 |  |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Poorna959/leetcodeproblems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Poorna959/leetcodeproblems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2000-reverse-prefix-of-word](https://github.com/Poorna959/leetcodeproblems/tree/master/2000-reverse-prefix-of-word) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Poorna959/leetcodeproblems/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Simulation
 |  |
 | ------- |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/Poorna959/leetcodeproblems/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Poorna959/leetcodeproblems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0985-bag-of-tokens](https://github.com/Poorna959/leetcodeproblems/tree/master/0985-bag-of-tokens) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Poorna959/leetcodeproblems/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Design
 |  |
 | ------- |
@@ -465,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Poorna959/leetcodeproblems/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Poorna959/leetcodeproblems/tree/master/0039-combination-sum) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Poorna959/leetcodeproblems/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Matrix
 |  |
 | ------- |
