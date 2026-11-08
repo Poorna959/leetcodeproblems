@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Poorna959/leetcodeproblems/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Poorna959/leetcodeproblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Poorna959/leetcodeproblems/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/Poorna959/leetcodeproblems/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Poorna959/leetcodeproblems/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Poorna959/leetcodeproblems/tree/master/0713-subarray-product-less-than-k) |
 | [0789-escape-the-ghosts](https://github.com/Poorna959/leetcodeproblems/tree/master/0789-escape-the-ghosts) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Poorna959/leetcodeproblems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Poorna959/leetcodeproblems/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Poorna959/leetcodeproblems/tree/master/0678-valid-parenthesis-string) |
+| [0682-baseball-game](https://github.com/Poorna959/leetcodeproblems/tree/master/0682-baseball-game) |
 | [0886-score-of-parentheses](https://github.com/Poorna959/leetcodeproblems/tree/master/0886-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/Poorna959/leetcodeproblems/tree/master/0901-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Poorna959/leetcodeproblems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Poorna959/leetcodeproblems/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/Poorna959/leetcodeproblems/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/Poorna959/leetcodeproblems/tree/master/0682-baseball-game) |
 | [1094-car-pooling](https://github.com/Poorna959/leetcodeproblems/tree/master/1094-car-pooling) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/Poorna959/leetcodeproblems/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1701-average-waiting-time](https://github.com/Poorna959/leetcodeproblems/tree/master/1701-average-waiting-time) |
