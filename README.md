@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Poorna959/leetcodeproblems/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Poorna959/leetcodeproblems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/Poorna959/leetcodeproblems/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Poorna959/leetcodeproblems/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/Poorna959/leetcodeproblems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Poorna959/leetcodeproblems/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Poorna959/leetcodeproblems/tree/master/0678-valid-parenthesis-string) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Poorna959/leetcodeproblems/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Poorna959/leetcodeproblems/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/Poorna959/leetcodeproblems/tree/master/0303-range-sum-query-immutable) |
 | [0732-my-calendar-iii](https://github.com/Poorna959/leetcodeproblems/tree/master/0732-my-calendar-iii) |
 | [0901-online-stock-span](https://github.com/Poorna959/leetcodeproblems/tree/master/0901-online-stock-span) |
@@ -537,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Poorna959/leetcodeproblems/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/Poorna959/leetcodeproblems/tree/master/0387-first-unique-character-in-a-string) |
 | [2868-continuous-subarrays](https://github.com/Poorna959/leetcodeproblems/tree/master/2868-continuous-subarrays) |
 ## Monotonic Queue
