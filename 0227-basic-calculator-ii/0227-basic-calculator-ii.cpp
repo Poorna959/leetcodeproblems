@@ -1,72 +1,46 @@
+#include <string>
+#include <cctype>
+
 class Solution {
-private:
-    int getPrecedence(char op) {
-        if (op == '*' || op == '/') return 2;
-        if (op == '+' || op == '-') return 1;
-        return 0;
-    }
 public:
-    int calculate(string s) {
+    int calculate(std::string s) {
+        if (s.empty()) return 0;
         
-        vector<string> postfix;
-        stack<char> opStack;
+        long long currentNumber = 0;
+        long long lastNumber = 0;
+        long long totalSum = 0;
+        char lastOperator = '+';
         
-        int i = 0;
-        int n = s.length();
+        // Add a dummy operator at the end to trigger processing of the final number
+        s += '+';
         
-        while (i < n) {
-            if (s[i] == ' ') {
-                i++;
-                continue;
-            }
-            
-            
-            if (isdigit(s[i])) {
-                string num = "";
-                while (i < n && isdigit(s[i])) {
-                    num += s[i];
-                    i++;
-                }
-                postfix.push_back(num);
+        for (char ch : s) {
+            if (std::isdigit(ch)) {
+                currentNumber = (currentNumber * 10) + (ch - '0');
             } 
-            
-            else {
-                while (!opStack.empty() && getPrecedence(opStack.top()) >= getPrecedence(s[i])) {
-                    postfix.push_back(string(1, opStack.top()));
-                    opStack.pop();
+            else if (ch != ' ') {
+                // Process the completed number based on the preceding operator
+                if (lastOperator == '+') {
+                    totalSum += lastNumber;
+                    lastNumber = currentNumber;
+                } 
+                else if (lastOperator == '-') {
+                    totalSum += lastNumber;
+                    lastNumber = -currentNumber;
+                } 
+                else if (lastOperator == '*') {
+                    lastNumber = lastNumber * currentNumber;
+                } 
+                else if (lastOperator == '/') {
+                    lastNumber = lastNumber / currentNumber; // C++ truncates towards zero by default
                 }
-                opStack.push(s[i]);
-                i++;
-            }
-        }
-        
-        
-        while (!opStack.empty()) {
-            postfix.push_back(string(1, opStack.top()));
-            opStack.pop();
-        }
-        
-        
-        stack<long long> evalStack;
-        
-        for (const string& token : postfix) {
-            
-            if (token.length() == 1 && (token[0] == '+' || token[0] == '-' || token[0] == '*' || token[0] == '/')) {
-                long long val2 = evalStack.top(); evalStack.pop();
-                long long val1 = evalStack.top(); evalStack.pop();
                 
-                char op = token[0];
-                if (op == '+') evalStack.push(val1 + val2);
-                else if (op == '-') evalStack.push(val1 - val2);
-                else if (op == '*') evalStack.push(val1 * val2);
-                else if (op == '/') evalStack.push(val1 / val2);
-            } 
-            
-            else {
-                evalStack.push(stoll(token));
+                lastOperator = ch;
+                currentNumber = 0;
             }
         }
         
-        return static_cast<int>(evalStack.top());
+        totalSum += lastNumber;
+        return static_cast<int>(totalSum);
     }
 };
