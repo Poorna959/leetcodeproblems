@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Poorna959/leetcodeproblems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Poorna959/leetcodeproblems/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Poorna959/leetcodeproblems/tree/master/0204-count-primes) |
+| [0224-basic-calculator](https://github.com/Poorna959/leetcodeproblems/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Poorna959/leetcodeproblems/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Poorna959/leetcodeproblems/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/Poorna959/leetcodeproblems/tree/master/0412-fizz-buzz) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Poorna959/leetcodeproblems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Poorna959/leetcodeproblems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Poorna959/leetcodeproblems/tree/master/0205-isomorphic-strings) |
+| [0224-basic-calculator](https://github.com/Poorna959/leetcodeproblems/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Poorna959/leetcodeproblems/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/Poorna959/leetcodeproblems/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Poorna959/leetcodeproblems/tree/master/0290-word-pattern) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Poorna959/leetcodeproblems/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Poorna959/leetcodeproblems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/Poorna959/leetcodeproblems/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/Poorna959/leetcodeproblems/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/Poorna959/leetcodeproblems/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/Poorna959/leetcodeproblems/tree/master/0227-basic-calculator-ii) |
 | [0496-next-greater-element-i](https://github.com/Poorna959/leetcodeproblems/tree/master/0496-next-greater-element-i) |
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Poorna959/leetcodeproblems/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Poorna959/leetcodeproblems/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/Poorna959/leetcodeproblems/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/Poorna959/leetcodeproblems/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Poorna959/leetcodeproblems/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Poorna959/leetcodeproblems/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
