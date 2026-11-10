@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Poorna959/leetcodeproblems/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Poorna959/leetcodeproblems/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/Poorna959/leetcodeproblems/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Poorna959/leetcodeproblems/tree/master/0739-daily-temperatures) |
 | [0789-escape-the-ghosts](https://github.com/Poorna959/leetcodeproblems/tree/master/0789-escape-the-ghosts) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Poorna959/leetcodeproblems/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0860-lemonade-change](https://github.com/Poorna959/leetcodeproblems/tree/master/0860-lemonade-change) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Poorna959/leetcodeproblems/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Poorna959/leetcodeproblems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Poorna959/leetcodeproblems/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Poorna959/leetcodeproblems/tree/master/0739-daily-temperatures) |
 | [0886-score-of-parentheses](https://github.com/Poorna959/leetcodeproblems/tree/master/0886-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/Poorna959/leetcodeproblems/tree/master/0901-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Poorna959/leetcodeproblems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -564,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Poorna959/leetcodeproblems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Poorna959/leetcodeproblems/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Poorna959/leetcodeproblems/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0739-daily-temperatures](https://github.com/Poorna959/leetcodeproblems/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Poorna959/leetcodeproblems/tree/master/0901-online-stock-span) |
 ## Bracket Sequences
 |  |
