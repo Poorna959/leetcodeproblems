@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Poorna959/leetcodeproblems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Poorna959/leetcodeproblems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Poorna959/leetcodeproblems/tree/master/0455-assign-cookies) |
+| [0456-132-pattern](https://github.com/Poorna959/leetcodeproblems/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Poorna959/leetcodeproblems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Poorna959/leetcodeproblems/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Poorna959/leetcodeproblems/tree/master/0523-continuous-subarray-sum) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Poorna959/leetcodeproblems/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/Poorna959/leetcodeproblems/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Poorna959/leetcodeproblems/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/Poorna959/leetcodeproblems/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Poorna959/leetcodeproblems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Poorna959/leetcodeproblems/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Poorna959/leetcodeproblems/tree/master/0678-valid-parenthesis-string) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Poorna959/leetcodeproblems/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Poorna959/leetcodeproblems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/Poorna959/leetcodeproblems/tree/master/0410-split-array-largest-sum) |
+| [0456-132-pattern](https://github.com/Poorna959/leetcodeproblems/tree/master/0456-132-pattern) |
 | [0704-binary-search](https://github.com/Poorna959/leetcodeproblems/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Poorna959/leetcodeproblems/tree/master/0713-subarray-product-less-than-k) |
 | [0732-my-calendar-iii](https://github.com/Poorna959/leetcodeproblems/tree/master/0732-my-calendar-iii) |
@@ -473,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/Poorna959/leetcodeproblems/tree/master/0456-132-pattern) |
 | [0732-my-calendar-iii](https://github.com/Poorna959/leetcodeproblems/tree/master/0732-my-calendar-iii) |
 | [2868-continuous-subarrays](https://github.com/Poorna959/leetcodeproblems/tree/master/2868-continuous-subarrays) |
 ## Interactive
@@ -545,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Poorna959/leetcodeproblems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/Poorna959/leetcodeproblems/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Poorna959/leetcodeproblems/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/Poorna959/leetcodeproblems/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Poorna959/leetcodeproblems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Poorna959/leetcodeproblems/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/Poorna959/leetcodeproblems/tree/master/0901-online-stock-span) |
