@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Poorna959/leetcodeproblems/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Poorna959/leetcodeproblems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Poorna959/leetcodeproblems/tree/master/0387-first-unique-character-in-a-string) |
+| [0394-decode-string](https://github.com/Poorna959/leetcodeproblems/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/Poorna959/leetcodeproblems/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Poorna959/leetcodeproblems/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Poorna959/leetcodeproblems/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/Poorna959/leetcodeproblems/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/Poorna959/leetcodeproblems/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Poorna959/leetcodeproblems/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/Poorna959/leetcodeproblems/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Poorna959/leetcodeproblems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Poorna959/leetcodeproblems/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Poorna959/leetcodeproblems/tree/master/0678-valid-parenthesis-string) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Poorna959/leetcodeproblems/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Poorna959/leetcodeproblems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Poorna959/leetcodeproblems/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Poorna959/leetcodeproblems/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/Poorna959/leetcodeproblems/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
