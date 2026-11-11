@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Poorna959/leetcodeproblems/tree/master/0941-sort-array-by-parity) |
 | [0946-validate-stack-sequences](https://github.com/Poorna959/leetcodeproblems/tree/master/0946-validate-stack-sequences) |
 | [0958-sort-array-by-parity-ii](https://github.com/Poorna959/leetcodeproblems/tree/master/0958-sort-array-by-parity-ii) |
+| [0962-maximum-width-ramp](https://github.com/Poorna959/leetcodeproblems/tree/master/0962-maximum-width-ramp) |
 | [0966-binary-subarrays-with-sum](https://github.com/Poorna959/leetcodeproblems/tree/master/0966-binary-subarrays-with-sum) |
 | [0985-bag-of-tokens](https://github.com/Poorna959/leetcodeproblems/tree/master/0985-bag-of-tokens) |
 | [1004-max-consecutive-ones-iii](https://github.com/Poorna959/leetcodeproblems/tree/master/1004-max-consecutive-ones-iii) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/Poorna959/leetcodeproblems/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Poorna959/leetcodeproblems/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Poorna959/leetcodeproblems/tree/master/0958-sort-array-by-parity-ii) |
+| [0962-maximum-width-ramp](https://github.com/Poorna959/leetcodeproblems/tree/master/0962-maximum-width-ramp) |
 | [0985-bag-of-tokens](https://github.com/Poorna959/leetcodeproblems/tree/master/0985-bag-of-tokens) |
 | [2000-reverse-prefix-of-word](https://github.com/Poorna959/leetcodeproblems/tree/master/2000-reverse-prefix-of-word) |
 | [3356-zero-array-transformation-ii](https://github.com/Poorna959/leetcodeproblems/tree/master/3356-zero-array-transformation-ii) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/Poorna959/leetcodeproblems/tree/master/0901-online-stock-span) |
 | [0946-validate-stack-sequences](https://github.com/Poorna959/leetcodeproblems/tree/master/0946-validate-stack-sequences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Poorna959/leetcodeproblems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0962-maximum-width-ramp](https://github.com/Poorna959/leetcodeproblems/tree/master/0962-maximum-width-ramp) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Poorna959/leetcodeproblems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Poorna959/leetcodeproblems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2000-reverse-prefix-of-word](https://github.com/Poorna959/leetcodeproblems/tree/master/2000-reverse-prefix-of-word) |
@@ -571,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Poorna959/leetcodeproblems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/Poorna959/leetcodeproblems/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Poorna959/leetcodeproblems/tree/master/0901-online-stock-span) |
+| [0962-maximum-width-ramp](https://github.com/Poorna959/leetcodeproblems/tree/master/0962-maximum-width-ramp) |
 ## Bracket Sequences
 |  |
 | ------- |
