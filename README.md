@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Poorna959/leetcodeproblems/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Poorna959/leetcodeproblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0789-escape-the-ghosts](https://github.com/Poorna959/leetcodeproblems/tree/master/0789-escape-the-ghosts) |
+| [1006-clumsy-factorial](https://github.com/Poorna959/leetcodeproblems/tree/master/1006-clumsy-factorial) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Poorna959/leetcodeproblems/tree/master/1370-count-number-of-nice-subarrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/Poorna959/leetcodeproblems/tree/master/2965-find-missing-and-repeated-values) |
 | [3536-maximum-product-of-two-digits](https://github.com/Poorna959/leetcodeproblems/tree/master/3536-maximum-product-of-two-digits) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Poorna959/leetcodeproblems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0962-maximum-width-ramp](https://github.com/Poorna959/leetcodeproblems/tree/master/0962-maximum-width-ramp) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/Poorna959/leetcodeproblems/tree/master/1003-check-if-word-is-valid-after-substitutions) |
+| [1006-clumsy-factorial](https://github.com/Poorna959/leetcodeproblems/tree/master/1006-clumsy-factorial) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Poorna959/leetcodeproblems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Poorna959/leetcodeproblems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2000-reverse-prefix-of-word](https://github.com/Poorna959/leetcodeproblems/tree/master/2000-reverse-prefix-of-word) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Poorna959/leetcodeproblems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Poorna959/leetcodeproblems/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/Poorna959/leetcodeproblems/tree/master/0946-validate-stack-sequences) |
+| [1006-clumsy-factorial](https://github.com/Poorna959/leetcodeproblems/tree/master/1006-clumsy-factorial) |
 | [1094-car-pooling](https://github.com/Poorna959/leetcodeproblems/tree/master/1094-car-pooling) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/Poorna959/leetcodeproblems/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1701-average-waiting-time](https://github.com/Poorna959/leetcodeproblems/tree/master/1701-average-waiting-time) |
