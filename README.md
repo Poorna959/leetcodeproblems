@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Poorna959/leetcodeproblems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0680-valid-palindrome-ii](https://github.com/Poorna959/leetcodeproblems/tree/master/0680-valid-palindrome-ii) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Poorna959/leetcodeproblems/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
+| [0874-backspace-string-compare](https://github.com/Poorna959/leetcodeproblems/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Poorna959/leetcodeproblems/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/Poorna959/leetcodeproblems/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Poorna959/leetcodeproblems/tree/master/0941-sort-array-by-parity) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Poorna959/leetcodeproblems/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/Poorna959/leetcodeproblems/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Poorna959/leetcodeproblems/tree/master/0680-valid-palindrome-ii) |
+| [0874-backspace-string-compare](https://github.com/Poorna959/leetcodeproblems/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/Poorna959/leetcodeproblems/tree/master/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Poorna959/leetcodeproblems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/Poorna959/leetcodeproblems/tree/master/1003-check-if-word-is-valid-after-substitutions) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Poorna959/leetcodeproblems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Poorna959/leetcodeproblems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Poorna959/leetcodeproblems/tree/master/0739-daily-temperatures) |
+| [0874-backspace-string-compare](https://github.com/Poorna959/leetcodeproblems/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/Poorna959/leetcodeproblems/tree/master/0886-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/Poorna959/leetcodeproblems/tree/master/0901-online-stock-span) |
 | [0946-validate-stack-sequences](https://github.com/Poorna959/leetcodeproblems/tree/master/0946-validate-stack-sequences) |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Poorna959/leetcodeproblems/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/Poorna959/leetcodeproblems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Poorna959/leetcodeproblems/tree/master/0735-asteroid-collision) |
+| [0874-backspace-string-compare](https://github.com/Poorna959/leetcodeproblems/tree/master/0874-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/Poorna959/leetcodeproblems/tree/master/0946-validate-stack-sequences) |
 | [1006-clumsy-factorial](https://github.com/Poorna959/leetcodeproblems/tree/master/1006-clumsy-factorial) |
 | [1094-car-pooling](https://github.com/Poorna959/leetcodeproblems/tree/master/1094-car-pooling) |
