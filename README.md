@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Poorna959/leetcodeproblems/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3355-zero-array-transformation-i](https://github.com/Poorna959/leetcodeproblems/tree/master/3355-zero-array-transformation-i) |
 | [3356-zero-array-transformation-ii](https://github.com/Poorna959/leetcodeproblems/tree/master/3356-zero-array-transformation-ii) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/Poorna959/leetcodeproblems/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Poorna959/leetcodeproblems/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Poorna959/leetcodeproblems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Poorna959/leetcodeproblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Poorna959/leetcodeproblems/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [3355-zero-array-transformation-i](https://github.com/Poorna959/leetcodeproblems/tree/master/3355-zero-array-transformation-i) |
 | [3356-zero-array-transformation-ii](https://github.com/Poorna959/leetcodeproblems/tree/master/3356-zero-array-transformation-ii) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/Poorna959/leetcodeproblems/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Poorna959/leetcodeproblems/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Counting
 |  |
