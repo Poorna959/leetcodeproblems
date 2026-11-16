@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3355-zero-array-transformation-i](https://github.com/Poorna959/leetcodeproblems/tree/master/3355-zero-array-transformation-i) |
 | [3356-zero-array-transformation-ii](https://github.com/Poorna959/leetcodeproblems/tree/master/3356-zero-array-transformation-ii) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Poorna959/leetcodeproblems/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Poorna959/leetcodeproblems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Poorna959/leetcodeproblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/Poorna959/leetcodeproblems/tree/master/1370-count-number-of-nice-subarrays) |
 | [2396-strictly-palindromic-number](https://github.com/Poorna959/leetcodeproblems/tree/master/2396-strictly-palindromic-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Poorna959/leetcodeproblems/tree/master/2965-find-missing-and-repeated-values) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Poorna959/leetcodeproblems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3536-maximum-product-of-two-digits](https://github.com/Poorna959/leetcodeproblems/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Poorna959/leetcodeproblems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Poorna959/leetcodeproblems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Poorna959/leetcodeproblems/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [3355-zero-array-transformation-i](https://github.com/Poorna959/leetcodeproblems/tree/master/3355-zero-array-transformation-i) |
 | [3356-zero-array-transformation-ii](https://github.com/Poorna959/leetcodeproblems/tree/master/3356-zero-array-transformation-ii) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Poorna959/leetcodeproblems/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Counting
 |  |
 | ------- |
