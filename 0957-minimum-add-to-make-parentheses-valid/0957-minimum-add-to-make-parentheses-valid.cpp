@@ -1,22 +1,21 @@
 class Solution {
 public:
     int minAddToMakeValid(string s) {
-        int ans=0;
-        int mem=0;
-        for(char c:s){
-            if(c=='('){
-                mem++;
-                
-            }else{
-                if(mem<=0){
-                    ans++;
+        int st=0;
+        int count = 0;
+        for(char ch:s){
+            if(ch=='('){
+                st++;
+            }
+            else{
+                if(st==0){
+                    count++;
                 }
                 else{
-                    mem--;
+                st--;
                 }
             }
         }
-        return abs(mem)+ans;
-    
+        return abs(st+count);
     }
 };
