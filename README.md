@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/Poorna959/leetcodeproblems/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/Poorna959/leetcodeproblems/tree/master/1109-corporate-flight-bookings) |
 | [1138-grumpy-bookstore-owner](https://github.com/Poorna959/leetcodeproblems/tree/master/1138-grumpy-bookstore-owner) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/Poorna959/leetcodeproblems/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Poorna959/leetcodeproblems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Poorna959/leetcodeproblems/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Poorna959/leetcodeproblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/Poorna959/leetcodeproblems/tree/master/1078-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Poorna959/leetcodeproblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Poorna959/leetcodeproblems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/Poorna959/leetcodeproblems/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Poorna959/leetcodeproblems/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Poorna959/leetcodeproblems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1666-make-the-string-great](https://github.com/Poorna959/leetcodeproblems/tree/master/1666-make-the-string-great) |
@@ -609,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0962-maximum-width-ramp](https://github.com/Poorna959/leetcodeproblems/tree/master/0962-maximum-width-ramp) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Poorna959/leetcodeproblems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Poorna959/leetcodeproblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/Poorna959/leetcodeproblems/tree/master/1305-number-of-visible-people-in-a-queue) |
 ## Bracket Sequences
 |  |
 | ------- |
