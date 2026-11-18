@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0962-maximum-width-ramp](https://github.com/Poorna959/leetcodeproblems/tree/master/0962-maximum-width-ramp) |
 | [0985-bag-of-tokens](https://github.com/Poorna959/leetcodeproblems/tree/master/0985-bag-of-tokens) |
 | [2000-reverse-prefix-of-word](https://github.com/Poorna959/leetcodeproblems/tree/master/2000-reverse-prefix-of-word) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Poorna959/leetcodeproblems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/Poorna959/leetcodeproblems/tree/master/2396-strictly-palindromic-number) |
 | [3356-zero-array-transformation-ii](https://github.com/Poorna959/leetcodeproblems/tree/master/3356-zero-array-transformation-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Poorna959/leetcodeproblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1666-make-the-string-great](https://github.com/Poorna959/leetcodeproblems/tree/master/1666-make-the-string-great) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Poorna959/leetcodeproblems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2000-reverse-prefix-of-word](https://github.com/Poorna959/leetcodeproblems/tree/master/2000-reverse-prefix-of-word) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Poorna959/leetcodeproblems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Poorna959/leetcodeproblems/tree/master/2375-construct-smallest-number-from-di-string) |
 | [3174-clear-digits](https://github.com/Poorna959/leetcodeproblems/tree/master/3174-clear-digits) |
 ## Simulation
@@ -586,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Poorna959/leetcodeproblems/tree/master/0445-add-two-numbers-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Poorna959/leetcodeproblems/tree/master/0908-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Poorna959/leetcodeproblems/tree/master/1019-next-greater-node-in-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Poorna959/leetcodeproblems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
