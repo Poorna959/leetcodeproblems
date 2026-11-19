@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Poorna959/leetcodeproblems/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Poorna959/leetcodeproblems/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Poorna959/leetcodeproblems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2810-faulty-keyboard](https://github.com/Poorna959/leetcodeproblems/tree/master/2810-faulty-keyboard) |
 | [3174-clear-digits](https://github.com/Poorna959/leetcodeproblems/tree/master/3174-clear-digits) |
 ## Stack
 |  |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1535-find-the-winner-of-an-array-game](https://github.com/Poorna959/leetcodeproblems/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1701-average-waiting-time](https://github.com/Poorna959/leetcodeproblems/tree/master/1701-average-waiting-time) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Poorna959/leetcodeproblems/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2810-faulty-keyboard](https://github.com/Poorna959/leetcodeproblems/tree/master/2810-faulty-keyboard) |
 | [3174-clear-digits](https://github.com/Poorna959/leetcodeproblems/tree/master/3174-clear-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Poorna959/leetcodeproblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
