@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Poorna959/leetcodeproblems/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Poorna959/leetcodeproblems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Poorna959/leetcodeproblems/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Poorna959/leetcodeproblems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Poorna959/leetcodeproblems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/Poorna959/leetcodeproblems/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Poorna959/leetcodeproblems/tree/master/0455-assign-cookies) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Poorna959/leetcodeproblems/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/Poorna959/leetcodeproblems/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/Poorna959/leetcodeproblems/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Poorna959/leetcodeproblems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Poorna959/leetcodeproblems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Poorna959/leetcodeproblems/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/Poorna959/leetcodeproblems/tree/master/0394-decode-string) |
