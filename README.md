@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Poorna959/leetcodeproblems/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Poorna959/leetcodeproblems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Poorna959/leetcodeproblems/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/Poorna959/leetcodeproblems/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Poorna959/leetcodeproblems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Poorna959/leetcodeproblems/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Poorna959/leetcodeproblems/tree/master/0073-set-matrix-zeroes) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Poorna959/leetcodeproblems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Poorna959/leetcodeproblems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Poorna959/leetcodeproblems/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Poorna959/leetcodeproblems/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Poorna959/leetcodeproblems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Poorna959/leetcodeproblems/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Poorna959/leetcodeproblems/tree/master/0242-valid-anagram) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Poorna959/leetcodeproblems/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Poorna959/leetcodeproblems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Poorna959/leetcodeproblems/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Poorna959/leetcodeproblems/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Poorna959/leetcodeproblems/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Poorna959/leetcodeproblems/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Poorna959/leetcodeproblems/tree/master/0125-valid-palindrome) |
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Poorna959/leetcodeproblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Poorna959/leetcodeproblems/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Poorna959/leetcodeproblems/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0049-group-anagrams](https://github.com/Poorna959/leetcodeproblems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Poorna959/leetcodeproblems/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Poorna959/leetcodeproblems/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/Poorna959/leetcodeproblems/tree/master/0138-copy-list-with-random-pointer) |
