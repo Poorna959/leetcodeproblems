@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1535-find-the-winner-of-an-array-game](https://github.com/Poorna959/leetcodeproblems/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Poorna959/leetcodeproblems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Poorna959/leetcodeproblems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Poorna959/leetcodeproblems/tree/master/1675-magnetic-force-between-two-balls) |
 | [1695-maximum-erasure-value](https://github.com/Poorna959/leetcodeproblems/tree/master/1695-maximum-erasure-value) |
 | [1701-average-waiting-time](https://github.com/Poorna959/leetcodeproblems/tree/master/1701-average-waiting-time) |
 | [1732-find-the-highest-altitude](https://github.com/Poorna959/leetcodeproblems/tree/master/1732-find-the-highest-altitude) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/Poorna959/leetcodeproblems/tree/master/1094-car-pooling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Poorna959/leetcodeproblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Poorna959/leetcodeproblems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Poorna959/leetcodeproblems/tree/master/1675-magnetic-force-between-two-balls) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Poorna959/leetcodeproblems/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [3536-maximum-product-of-two-digits](https://github.com/Poorna959/leetcodeproblems/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Poorna959/leetcodeproblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Poorna959/leetcodeproblems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-max-consecutive-ones-iii](https://github.com/Poorna959/leetcodeproblems/tree/master/1046-max-consecutive-ones-iii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Poorna959/leetcodeproblems/tree/master/1321-get-equal-substrings-within-budget) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Poorna959/leetcodeproblems/tree/master/1675-magnetic-force-between-two-balls) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Poorna959/leetcodeproblems/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Poorna959/leetcodeproblems/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Poorna959/leetcodeproblems/tree/master/2600-maximum-tastiness-of-candy-basket) |
