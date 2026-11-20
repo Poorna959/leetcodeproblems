@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/Poorna959/leetcodeproblems/tree/master/1813-maximum-erasure-value) |
 | [2453-destroy-sequential-targets](https://github.com/Poorna959/leetcodeproblems/tree/master/2453-destroy-sequential-targets) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Poorna959/leetcodeproblems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/Poorna959/leetcodeproblems/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Poorna959/leetcodeproblems/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Poorna959/leetcodeproblems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/Poorna959/leetcodeproblems/tree/master/2868-continuous-subarrays) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/Poorna959/leetcodeproblems/tree/master/1094-car-pooling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Poorna959/leetcodeproblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Poorna959/leetcodeproblems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/Poorna959/leetcodeproblems/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [3536-maximum-product-of-two-digits](https://github.com/Poorna959/leetcodeproblems/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Poorna959/leetcodeproblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1321-get-equal-substrings-within-budget](https://github.com/Poorna959/leetcodeproblems/tree/master/1321-get-equal-substrings-within-budget) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Poorna959/leetcodeproblems/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Poorna959/leetcodeproblems/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/Poorna959/leetcodeproblems/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [3356-zero-array-transformation-ii](https://github.com/Poorna959/leetcodeproblems/tree/master/3356-zero-array-transformation-ii) |
 ## Prefix Sum
 |  |
@@ -520,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-bag-of-tokens](https://github.com/Poorna959/leetcodeproblems/tree/master/0985-bag-of-tokens) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Poorna959/leetcodeproblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Poorna959/leetcodeproblems/tree/master/2375-construct-smallest-number-from-di-string) |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/Poorna959/leetcodeproblems/tree/master/2600-maximum-tastiness-of-candy-basket) |
 ## Design
 |  |
 | ------- |
